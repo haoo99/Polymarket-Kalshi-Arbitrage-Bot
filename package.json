@@ -1,0 +1,25 @@
+{
+  "name": "polymarket-kalshi-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "Arbitrage bot for 15-minute BTC markets between Polymarket and Kalshi",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "watch": "tsc --watch"
+  },
+  "keywords": [
+    "arbitrage",
+    "polymarket",
+    "kalshi",
+    "prediction-markets",
+    "trading-bot"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
